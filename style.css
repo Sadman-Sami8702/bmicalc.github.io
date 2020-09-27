@@ -3,7 +3,8 @@ body{
 }
 
 .container {
-    padding: 10px ;
+    padding-top: 90px;
+    padding-bottom: 90px;
 }
 
 .card-header {
